@@ -21,7 +21,7 @@ public class Circle {
         System.out.println("Considering the radius, the area of the circle is: " + calculateTheArea(radius));
     }
     catch (InputMismatchException e) {
-        System.out.println("Invalid entry. Try again.");
+        System.out.println("\nInvalid entry. Try again.");
         scanner.nextLine();
         circleMenu();
     }
