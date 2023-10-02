@@ -18,6 +18,7 @@ public class Rectangle {
         width = scanner.nextInt();
         System.out.print("Length: ");
         length = scanner.nextInt(); 
+        // Basic calculation of the rectangle area. Width times length.
         rectangleArea = width * length;
         System.out.println("\nThe area for the rectangle is: " + rectangleArea);
         }

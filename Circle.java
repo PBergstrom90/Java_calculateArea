@@ -26,6 +26,7 @@ public class Circle {
         circleMenu();
     }
     }
+    // Calculating the area of the circle, based on the radius squared.
     public double calculateTheArea(double radius) {
         return pi * Math.pow(radius, 2);
     }
