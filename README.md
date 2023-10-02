@@ -1,7 +1,7 @@
 # calculateArea
 
 02-10-2023:
-Remade code. Should work as intended.
+Re-structured code. Should work as intended.
 
 
 Initial: 
