@@ -1,10 +1,12 @@
 # calculateArea
 
 02-10-2023:
+
 Re-structured code. Should work as intended.
 
 
-Initial: 
+Initial:
+
 Ett projekt jag behöver hjälp med.
 
 Jag var lite trött när jag försökte koda ett program där man kan räkna ut arean på en rektangel och en cirkel, programmet gör många konstiga saker nu
