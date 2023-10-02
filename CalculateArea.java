@@ -14,7 +14,6 @@ public class CalculateArea {
         rectangle = new Rectangle();
         circle = new Circle();
     }
-
     public void calculateMenu() {
         while (isRunning) {
         try {

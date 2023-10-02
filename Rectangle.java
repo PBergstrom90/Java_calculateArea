@@ -9,7 +9,6 @@ public class Rectangle {
     Scanner scanner = new Scanner(System.in);
 
     public Rectangle() {
-
     }
     public void rectangleMenu() {
         try {

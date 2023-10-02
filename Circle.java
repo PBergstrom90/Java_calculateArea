@@ -9,7 +9,6 @@ public class Circle {
     double radius = 0;
 
     public Circle() {
-        
     }
     
     public void circleMenu() {
