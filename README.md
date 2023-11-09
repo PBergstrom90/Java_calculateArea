@@ -5,7 +5,7 @@
 Re-structured code. Should work as intended.
 
 
-Initial:
+Initial information from original author:
 
 Ett projekt jag behöver hjälp med.
 
